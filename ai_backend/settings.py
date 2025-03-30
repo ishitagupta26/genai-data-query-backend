@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-1%y%cv9_x&+7*04l+72g9*hwkqpiz3wvrbn3=3icbl4i-g#&zk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['genai-data-query-backend.onrender.com', 'localhost']
 
 
 # Application definition
